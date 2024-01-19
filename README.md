@@ -1,4 +1,4 @@
-# Python
+# Python🐍
 Welcome to my Python Notes repository! This is a collection of notes, code snippets, and examples related to Python programming. Feel free to explore, learn, and contribute to this repository.
 
 
@@ -19,7 +19,7 @@ To get started with this repository, you can follow these steps:
 3. **Explore the Notes:**
    Open the markdown files in your favorite text editor or use a Markdown viewer to explore the notes and code snippets.
 
-## Contributing
+## Contributing🚀
 
 If you find errors, have suggestions, or want to add your own notes, feel free to contribute! Follow these steps:
 

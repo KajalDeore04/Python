@@ -13,7 +13,7 @@ To get started with this repository, you can follow these steps:
 
 2. **Navigate to the Repository:**
    ```bash
-   cd python-notes
+   cd Python
    ```
 
 3. **Explore the Notes:**

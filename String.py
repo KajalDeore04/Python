@@ -24,6 +24,26 @@ for character in i:
     print(character)
 
 
+# format function
+
+# animal = "cow"
+# place = "moon"
+
+#print(animal , "jumped over the",place)
+
+# print("{} jumped over the {}".format("cow", "moon"))
+# print("{} jumped over the {}".format(animal,place))
+# print("{1} jumped over the {0}".format(animal,place))        #positional argument
+print("{animal} jumped over the {place}".format(animal = "cow",place = "moon"))
+
+
+name = "Python"
+print("hello my name is {:10}. how are you".format(name))     # adds padding of 10 spaces
+print("hello my name is {:<10}. how are you".format(name))    #aligns to left
+print("hello my name is {:>10}. how are you".format(name))    #aligns to right
+print("hello my name is {:^10}. how are you".format(name))    #aligns to center
+
+
 
 
 

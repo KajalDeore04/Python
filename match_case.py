@@ -1,4 +1,5 @@
 #like switch case
+# MAKE SURE YOU HAVE PYTHON INTERPRETOR 3.10 OR ABOVE INSTALLED TO RUN THIS
 
 x = int(input(" enter value of x: "))
 

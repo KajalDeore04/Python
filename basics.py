@@ -111,3 +111,18 @@ print(int(num1)+int(num2)) #even if its string the int function will convert the
 
 print(2+4.5) # answer will be float due to implicit typecasting
 
+
+
+#formating a number
+
+number = 3.14159
+print("the number pi is {:.2f}".format(number))      # prints till two numbers after decimal
+
+cash = 10000000
+print("I have cash of  {:,}".format(cash))          # adds comma on appropriate place
+print("I have cash of  {:b}".format(cash))          # binary
+print("I have cash of  {:o}".format(cash))          # octal
+print("I have cash of  {:x}".format(cash))          # hexadecimal
+print("I have cash of  {:E}".format(cash))          # scientific notation
+
+

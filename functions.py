@@ -12,8 +12,11 @@ print(mean2)
 # to encapsulate the logic of above instead of writing separetly we use function
 
 def mean(a,b):
+    '''this is a docstring can contain logic or any comment
+    but it is different than comment coz if u print --doc-- then it prints unlike comments'''
     mean = (a*b)/(a+b)
     print(mean)
+    print(mean.__doc__)
 
 print("I am using function")
 mean(15,4)
